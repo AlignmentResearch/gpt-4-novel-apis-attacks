@@ -1,4 +1,4 @@
-# Exploiting GPT4 APIs
+# Exploiting GPT-4 APIs
 
 Fine-tuning datasets used in the [Exploiting Novel GPT-4 APIs](https://arxiv.org/abs/2312.14302) technical report and [blog post](https://far.ai/post/2023-12-exploiting-gpt4-api/).
 
